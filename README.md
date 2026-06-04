@@ -1,52 +1,96 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Olá, eu sou a Dacy 👋</h1>
 
-###
+<p align="center">
+  🎓 Analista de Sistemas • 💻 Front-End • ⚙️ Automação de Processos • 🚀 Aprendizado Contínuo
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dacyrrose-melo/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dacy%20Melo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-###
+## ✨ Sobre mim
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+Sou formada em **Análise e Desenvolvimento de Sistemas** e tenho interesse em criar soluções que tornem processos mais simples, eficientes e inteligentes.
 
-###
+Atualmente estou aprofundando meus conhecimentos em **Automação de Processos**, **Low-Code**, **Front-End** e explorando novas tecnologias que possam gerar impacto real no dia a dia das pessoas e das empresas.
+
+Além da tecnologia, sou uma pessoa curiosa, criativa e que gosta de aprender continuamente.
+
+📍 Recife - PE  
+🎮 Gamer nas horas vagas  
+🌎 Apaixonada por viagens e novas experiências  
+☕ Movida por desafios e aprendizado
+
+---
+
+## 🚀 Tecnologias
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python" />
+
 </div>
 
-###
+---
+
+## 🎯 Áreas de Interesse
+
+- Automação de Processos
+- RPA
+- Desenvolvimento Front-End
+- Low-Code
+- Inteligência Artificial
+- Experiência do Usuário
+
+---
+
+## 📊 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Myoui-sys/Myoui-sys/pacman-output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Myoui-sys/Myoui-sys/pacman-output/pacman-contribution-graph.svg">
+
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/Myoui-sys/Myoui-sys/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Myoui-sys&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌱 Atualmente
+
+📚 Estudando automação e desenvolvimento web
+
+💻 Construindo projetos para fortalecer meu portfólio
+
+🤝 Participando de iniciativas e comunidades de tecnologia
+
+🚀 Em busca de oportunidades para crescer profissionalmente e gerar impacto através da tecnologia
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Myoui-sys&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+<p align="center">
+  ✨ Obrigada pela visita ao meu perfil! ✨
+</p>
