@@ -29,7 +29,7 @@ Além da tecnologia, sou uma pessoa curiosa, criativa e que gosta de aprender co
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,python" />
 
 </div>
 
