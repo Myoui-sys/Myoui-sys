@@ -1,35 +1,49 @@
 <h1 align="center">Olá, eu sou a Dacy 👋</h1>
 
 <p align="center">
-  🎓 Analista de Sistemas • 💻 Front-End • ⚙️ Automação de Processos • 🚀 Aprendizado Contínuo
+  💻 Desenvolvedora Full Stack • 🧪 Quality Assurance • 📊 Análise de Sistemas • 🚀 Tecnologia e Inovação
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dacyrrose-melo/">
     <img src="https://img.shields.io/badge/LinkedIn-Dacy%20Melo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://github.com/Myoui-sys/portfolio">
+    <img src="https://img.shields.io/badge/Portfólio-GitHub-8338EC?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ## ✨ Sobre mim
 
-Sou formada em **Análise e Desenvolvimento de Sistemas** e tenho interesse em criar soluções que tornem processos mais simples, eficientes e inteligentes.
+Sou formada em **Análise e Desenvolvimento de Sistemas** e atuo com desenvolvimento de software, qualidade de software e educação em tecnologia.
 
-Atualmente estou aprofundando meus conhecimentos em **Automação de Processos**, **Low-Code**, **Front-End** e explorando novas tecnologias que possam gerar impacto real no dia a dia das pessoas e das empresas.
+Tenho experiência com **desenvolvimento Full Stack, automação de testes, BDD, análise de requisitos, metodologias ágeis e gestão de projetos**, além de participação em hackathons, ideathons e iniciativas de inovação.
 
-Além da tecnologia, sou uma pessoa curiosa, criativa e que gosta de aprender continuamente.
+Gosto de transformar ideias e problemas reais em soluções digitais funcionais, buscando sempre evoluir tecnicamente e explorar novas tecnologias.
 
-📍 Recife - PE  
-🎮 Gamer nas horas vagas  
-🌎 Apaixonada por viagens e novas experiências  
-☕ Movida por desafios e aprendizado
+📍 Recife - PE
+🎮 Gamer nas horas vagas
+🦖 Apaixonada por dinossauros
+💡 Interessada em inovação, IA e desenvolvimento de soluções
+🚀 Sempre construindo novos projetos
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,python,git,github,figma,supabase" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge\&logo=cucumber\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 </div>
 
@@ -37,27 +51,64 @@ Além da tecnologia, sou uma pessoa curiosa, criativa e que gosta de aprender co
 
 ## 🎯 Áreas de Interesse
 
-- Automação de Processos
-- RPA
-- Desenvolvimento Front-End
-- Low-Code
-- Inteligência Artificial
-- Experiência do Usuário
+* Desenvolvimento Full Stack
+* Desenvolvimento Front-End
+* Quality Assurance
+* Testes Automatizados
+* BDD e Gherkin
+* Inteligência Artificial
+* Análise de Requisitos
+* Gestão de Projetos
+* Experiência do Usuário
+
+---
+
+## 📌 Projetos em destaque
+
+### 🧪 TOURS — QA Challenge
+
+Plataforma gamificada desenvolvida para ensinar conceitos de **Quality Assurance e Heurísticas de Nielsen**, utilizando desafios, equipes, ranking e integração com Supabase.
+
+**Tecnologias:** JavaScript, Supabase, Playwright e QA.
+
+🔗 [Repositório](https://github.com/Myoui-sys/tours-qa-challenge-ready)
+🌐 [Deploy](https://tours-qa-desafio.vercel.app/)
+
+---
+
+### 💻 Portfólio Pessoal
+
+Portfólio desenvolvido em **React** para apresentar meus projetos, experiências profissionais e habilidades técnicas.
+
+**Tecnologias:** React, JavaScript, CSS, React Router e Vite.
+
+🔗 [Repositório](https://github.com/Myoui-sys/portfolio)
 
 ---
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Myoui-sys&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myoui-sys&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🕹️ Contribuições
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Myoui-sys/Myoui-sys/pacman-output/pacman-contribution-graph-dark.svg">
 
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Myoui-sys/Myoui-sys/pacman-output/pacman-contribution-graph.svg">
+<source media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Myoui-sys/Myoui-sys/pacman-output/pacman-contribution-graph.svg">
 
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/Myoui-sys/Myoui-sys/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<img alt="Pacman contribution graph"
+ src="https://raw.githubusercontent.com/Myoui-sys/Myoui-sys/pacman-output/pacman-contribution-graph.svg"> </picture>
 
 ---
 
@@ -73,13 +124,15 @@ Além da tecnologia, sou uma pessoa curiosa, criativa e que gosta de aprender co
 
 ## 🌱 Atualmente
 
-📚 Estudando automação e desenvolvimento web
+📚 Aprofundando conhecimentos em desenvolvimento Full Stack e qualidade de software
 
-💻 Construindo projetos para fortalecer meu portfólio
+🧪 Desenvolvendo projetos com automação de testes e BDD
 
-🤝 Participando de iniciativas e comunidades de tecnologia
+💻 Construindo e evoluindo meu portfólio em React
 
-🚀 Em busca de oportunidades para crescer profissionalmente e gerar impacto através da tecnologia
+🤝 Participando de projetos, hackathons, ideathons e iniciativas de tecnologia
+
+🚀 Em busca de oportunidades em Desenvolvimento de Software, QA e Análise de Sistemas
 
 ---
 
