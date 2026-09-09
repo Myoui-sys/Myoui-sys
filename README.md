@@ -86,18 +86,6 @@ Portfólio desenvolvido em **React** para apresentar meus projetos, experiência
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Myoui-sys&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myoui-sys&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🕹️ Contribuições
 
 <picture>
