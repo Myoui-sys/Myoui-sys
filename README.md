@@ -17,7 +17,7 @@
 
 Sou formada em **Análise e Desenvolvimento de Sistemas** e atuo com desenvolvimento de software, qualidade de software e educação em tecnologia.
 
-Tenho experiência com **desenvolvimento Full Stack, automação de testes, BDD, análise de requisitos, metodologias ágeis e gestão de projetos**, além de participação em hackathons, ideathons e iniciativas de inovação.
+Tenho experiência com **desenvolvimento de software, automação de testes, qualidade de software, análise de requisitos, metodologias ágeis e gestão de projetos**, além de participação em hackathons, ideathons e iniciativas de inovação.
 
 Gosto de transformar ideias e problemas reais em soluções digitais funcionais, buscando sempre evoluir tecnicamente e explorar novas tecnologias.
 
@@ -60,29 +60,6 @@ Gosto de transformar ideias e problemas reais em soluções digitais funcionais,
 * Análise de Requisitos
 * Gestão de Projetos
 * Experiência do Usuário
-
----
-
-## 📌 Projetos em destaque
-
-### 🧪 TOURS — QA Challenge
-
-Plataforma gamificada desenvolvida para ensinar conceitos de **Quality Assurance e Heurísticas de Nielsen**, utilizando desafios, equipes, ranking e integração com Supabase.
-
-**Tecnologias:** JavaScript, Supabase, Playwright e QA.
-
-🔗 [Repositório](https://github.com/Myoui-sys/tours-qa-challenge-ready)
-🌐 [Deploy](https://tours-qa-desafio.vercel.app/)
-
----
-
-### 💻 Portfólio Pessoal
-
-Portfólio desenvolvido em **React** para apresentar meus projetos, experiências profissionais e habilidades técnicas.
-
-**Tecnologias:** React, JavaScript, CSS, React Router e Vite.
-
-🔗 [Repositório](https://github.com/Myoui-sys/portfolio)
 
 ---
 
